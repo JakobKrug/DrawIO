@@ -225,12 +225,13 @@
         <mxCell id="9ODok5t8KGqk5znC5z10-49" value="Leave Shop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ODok5t8KGqk5znC5z10-50" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="9ODok5t8KGqk5znC5z10-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9ODok5t8KGqk5znC5z10-51" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=default;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9ODok5t8KGqk5znC5z10-50" parent="1" target="9ODok5t8KGqk5znC5z10-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="140" as="targetPoint" />
+        <mxCell id="9ODok5t8KGqk5znC5z10-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ODok5t8KGqk5znC5z10-52" target="9ODok5t8KGqk5znC5z10-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
